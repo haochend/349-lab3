@@ -1,0 +1,8 @@
+*.o
+*.elf
+*.asm
+*.img
+code/doxygen.warn
+code/doc
+*~
+*.swp
